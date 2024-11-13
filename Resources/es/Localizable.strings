@@ -1,0 +1,152 @@
+
+"home_loading" = "es - Loading...";
+
+"error_network_unavailable" = "es - Network unavailable. Please check your connection.";
+
+"chat_placeholder" = "es - Type a message...";
+
+"app_name" = "es - MyApp";
+
+"chat_title" = "es - Chat";
+
+"back" = "es - Back";
+
+"notification_friend_request" = "es - %@ sent you a friend request.";
+
+"next" = "es - Next";
+
+"settings_logout_confirmation" = "es - Are you sure you want to log out?";
+
+"error_invalid_form" = "es - Please make sure all fields are filled out correctly.";
+
+"ok" = "es - OK";
+
+"notification_like" = "es - %@ liked your post.";
+
+"notifications_title" = "es - Notifications";
+
+"cancel" = "es - Cancel";
+
+"settings_terms" = "es - Terms of Service";
+
+"confirm" = "es - Confirm";
+
+"minutes_ago" = "es - %d minutes ago";
+
+"days_ago" = "es - %d days ago";
+
+"home_welcome_message" = "es - Welcome, %@!";
+
+"friends_no_requests" = "es - No pending requests.";
+
+"onboarding_next_button" = "es - Next";
+
+"friends_pending_requests" = "es - Pending Requests";
+
+"profile_change_password" = "es - Change Password";
+
+"settings" = "es - Settings";
+
+"friends_title" = "es - Friends";
+
+"home_no_results" = "es - No results found.";
+
+"notifications_empty" = "es - You have no notifications.";
+
+"save" = "es - Save";
+
+"signup_button" = "es - Sign Up";
+
+"seconds_ago" = "es - %d seconds ago";
+
+"invalid_credentials" = "es - Invalid email or password.";
+
+"success_password_changed" = "es - Password changed successfully.";
+
+"profile_edit_button" = "es - Edit Profile";
+
+"password_confirmation_placeholder" = "es - Confirm Password";
+
+"friends_search_placeholder" = "es - Search friends";
+
+"success_profile_updated" = "es - Your profile has been updated!";
+
+"done" = "es - Done";
+
+"settings_notifications" = "es - Notifications";
+
+"action_follow" = "es - Follow";
+
+"hours_ago" = "es - %d hours ago";
+
+"login_button" = "es - Log In";
+
+"action_block" = "es - Block";
+
+"onboarding_skip_button" = "es - Skip";
+
+"profile_saved_successfully" = "es - Profile updated successfully!";
+
+"delete" = "es - Delete";
+
+"action_report" = "es - Report";
+
+"remember_me" = "es - Remember Me";
+
+"notification_comment" = "es - %@ commented on your post.";
+
+"notification_follow" = "es - %@ started following you.";
+
+"chat_no_messages" = "es - No messages yet.";
+
+"profile_logout_button" = "es - Log Out";
+
+"error_unauthorized" = "es - You are not authorized to perform this action.";
+
+"login_title" = "es - Log In";
+
+"forgot_password" = "es - Forgot Password?";
+
+"onboarding_subtitle" = "es - Discover new ways to connect and achieve more.";
+
+"settings_title" = "es - Settings";
+
+"profile_email_label" = "es - Email";
+
+"no" = "es - No";
+
+"email_placeholder" = "es - Email Address";
+
+"error_generic" = "es - Something went wrong. Please try again.";
+
+"profile_username_label" = "es - Username";
+
+"profile_title" = "es - Profile";
+
+"just_now" = "es - Just now";
+
+"settings_language" = "es - Language";
+
+"onboarding_title" = "es - Get Started";
+
+"yes" = "es - Yes";
+
+"settings_privacy" = "es - Privacy Policy";
+
+"edit" = "es - Edit";
+
+"password_placeholder" = "es - Password";
+
+"friends_add_button" = "es - Add Friend";
+
+"chat_typing" = "es - Typing...";
+
+"action_unfollow" = "es - Unfollow";
+
+"chat_send_button" = "es - Send";
+
+"home_search_placeholder" = "es - Search";
+
+"notifications_mark_all_read" = "es - Mark All as Read";
+
+"success_settings_saved" = "es - Settings saved successfully.";
