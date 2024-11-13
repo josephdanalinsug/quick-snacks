@@ -1,6 +1,5 @@
 /* General */
 "app_name" = "MyApp";
-"ok" = "OK!";
 "cancel" = "Cancel";
 "yes" = "Yes";
 "no" = "No";
