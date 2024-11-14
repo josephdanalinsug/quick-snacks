@@ -19,8 +19,6 @@
 
 "error_invalid_form" = "fr - Please make sure all fields are filled out correctly.";
 
-"ok" = "fr - OK!";
-
 "notification_like" = "fr - %@ liked your post.";
 
 "notifications_title" = "fr - Notifications";
