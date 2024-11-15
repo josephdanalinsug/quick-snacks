@@ -1,353 +1,79 @@
-/* No comment provided by engineer. */
-"Add to Shared" = "Add to Shared";
-
-/* No comment provided by engineer. */
-"All Customers" = "All Customers";
-
-/* No comment provided by engineer. */
-"All Videos" = "All Videos";
-
-/* No comment provided by engineer. */
-"Are you sure you want to duplicate this video?" = "Are you sure you want to duplicate this video?";
-
-/* No comment provided by engineer. */
-"Attachment" = "Attachment";
-
-/* No comment provided by engineer. */
-"Awaiting Video" = "Awaiting Video";
-
-/* No comment provided by engineer. */
-"Bounced" = "Bounced";
-
-/* No comment provided by engineer. */
-"Cancel" = "Cancel";
-
-/* No comment provided by engineer. */
-"Chat Support" = "Chat Support";
-
-/* No comment provided by engineer. */
-"Completed" = "Completed";
-
-/* No comment provided by engineer. */
-"Customer can be contacted by email." = "Customer can be contacted by email.";
-
-/* No comment provided by engineer. */
-"Customer Details (Optional)" = "Customer Details (Optional)";
-
-/* No comment provided by engineer. */
-"Customer Details (Required)" = "Customer Details (Required)";
-
-/* No comment provided by engineer. */
-"Customer Email" = "Customer Email";
-
-/* No comment provided by engineer. */
-"Customer has not opted-in yet." = "Customer has not opted-in yet.";
-
-/* No comment provided by engineer. */
-"Customer has opted-out." = "Customer has opted-out.";
-
-/* No comment provided by engineer. */
-"Customer is unreachable." = "Customer is unreachable.";
-
-/* No comment provided by engineer. */
-"Customer Name" = "Customer Name";
-
-/* No comment provided by engineer. */
-"Customer Phone Number" = "Customer Phone Number";
-
-/* No comment provided by engineer. */
-"Customers" = "Customers";
-
-/* No comment provided by engineer. */
-"Delivered" = "Delivered";
-
-/* No comment provided by engineer. */
-"Discarded" = "Discarded";
-
-/* No comment provided by engineer. */
-"Do you want to send this newly duplicated video?" = "Do you want to send this newly duplicated video?";
-
-/* No comment provided by engineer. */
-"Done" = "Done";
-
-/* No comment provided by engineer. */
-"Duplicate" = "Duplicate";
-
-/* No comment provided by engineer. */
-"Email" = "Email";
-
-/* No comment provided by engineer. */
-"Email Only" = "Email Only";
-
-/* No comment provided by engineer. */
-"Error" = "Error";
-
-/* No comment provided by engineer. */
-"Favorites" = "Favorites";
-
-/* No comment provided by engineer. */
-"Forgot Password?" = "Forgot Password?";
-
-/* No comment provided by engineer. */
-"Help Center" = "Help Center";
-
-/* No comment provided by engineer. */
-"High Quality" = "High Quality";
-
-/* No comment provided by engineer. */
-"Highest Quality" = "Highest Quality";
-
-/* No comment provided by engineer. */
-"Hint" = "Hint";
-
-/* No comment provided by engineer. */
-"Hold your finger down to record. Recording stops when you lift your finger." = "Hold your finger down to record. Recording stops when you lift your finger.";
-
-/* No comment provided by engineer. */
-"Home" = "Home";
-
-/* No comment provided by engineer. */
-"Invalid email or password. Please try again." = "Invalid email or password. Please try again.";
-
-/* No comment provided by engineer. */
-"Invalid email. Please try again." = "Invalid email. Please try again.";
-
-/* No comment provided by engineer. */
-"Invite Customer to Livestream" = "Invite Customer to Livestream";
-
-/* No comment provided by engineer. */
-"Leaderboard" = "Leaderboard";
-
-/* No comment provided by engineer. */
-"Loading Customers..." = "Loading Customers...";
-
-/* No comment provided by engineer. */
-"Loading Data..." = "Loading Data...";
-
-/* No comment provided by engineer. */
-"Loading Videos..." = "Loading Videos...";
-
-/* No comment provided by engineer. */
-"Loading..." = "Loading...";
-
-/* No comment provided by engineer. */
-"Log In" = "Log In";
-
-/* No comment provided by engineer. */
-"Log Out" = "Log Out";
-
-/* No comment provided by engineer. */
-"Low Quality" = "Low Quality";
-
-/* No comment provided by engineer. */
-"Lowest Quality" = "Lowest Quality";
-
-/* No comment provided by engineer. */
-"Medium Quality" = "Medium Quality";
-
-/* No comment provided by engineer. */
-"Messaging disabled for your location" = "Messaging disabled for your location";
-
-/* No comment provided by engineer. */
-"More" = "More";
-
-/* No comment provided by engineer. */
-"No videos found matching this filter. Select a different filter or record a new video." = "No videos found matching this filter. Select a different filter or record a new video.";
-
-/* No comment provided by engineer. */
-"Not sent yet" = "Not sent yet";
-
-/* Off */
-"Off" = "Off";
-
-/* Alert OK button */
-"Ok" = "Ok";
-
-/* Alert OK button */
-"OK" = "OK";
-
-/* On */
-"On" = "On";
-
-/* No comment provided by engineer. */
-"Opted-In" = "Opted-In";
-
-/* No comment provided by engineer. */
-"Opted-Out" = "Opted-Out";
-
-/* No comment provided by engineer. */
-"Other (Optional)" = "Other (Optional)";
-
-/* No comment provided by engineer. */
-"Password" = "Password";
-
-/* No comment provided by engineer. */
-"Pause" = "Pause";
-
-/* No comment provided by engineer. */
-"Pending" = "Pending";
-
-/* No comment provided by engineer. */
-"Pending Review" = "Pending Review";
-
-/* No comment provided by engineer. */
-"Please complete all the fields on the customer information to send this video. Alternatively, you can you can tap on Remove All Customer Information, saving the video and sending it later." = "Please complete all the fields on the customer information to send this video. Alternatively, you can you can tap on Remove All Customer Information, saving the video and sending it later.";
-
-/* No comment provided by engineer. */
-"Please complete all the fields to continue." = "Please complete all the fields to continue.";
-
-/* No comment provided by engineer. */
-"Please fill in the video title & message type to save this video." = "Please fill in the video title & message type to save this video.";
-
-/* No comment provided by engineer. */
-"Post on Facebook" = "Post on Facebook";
-
-/* No comment provided by engineer. */
-"Post on Social Media" = "Post on Social Media";
-
-/* No comment provided by engineer. */
-"Press and hold the record button below to start recording. Please film with your phone in the vertical position, otherwise your video will be sideways." = "Press and hold the record button below to start recording. Please film with your phone in the vertical position, otherwise your video will be sideways.";
-
-/* No comment provided by engineer. */
-"Processing..." = "Processing...";
-
-/* No comment provided by engineer. */
-"Record a Video" = "Record a Video";
-
-/* No comment provided by engineer. */
-"Record Video" = "Record Video";
-
-/* No comment provided by engineer. */
-"Remove from Shared" = "Remove from Shared";
-
-/* No comment provided by engineer. */
-"Reports" = "Reports";
-
-/* No comment provided by engineer. */
-"Retry" = "Retry";
-
-/* No comment provided by engineer. */
-"Review & Send" = "Review & Send";
-
-/* No comment provided by engineer. */
-"Save & Send" = "Save & Send";
-
-/* No comment provided by engineer. */
-"Save & Send →" = "Save & Send →";
-
-/* No comment provided by engineer. */
-"Save Video →" = "Save Video →";
-
-/* No comment provided by engineer. */
-"Search Customers" = "Search Customers";
-
-/* No comment provided by engineer. */
-"Search for a Vehicle" = "Search for a Vehicle";
-
-/* No comment provided by engineer. */
-"Search Videos" = "Search Videos";
-
-/* No comment provided by engineer. */
-"Select a Message Type" = "Select a Message Type";
-
-/* No comment provided by engineer. */
-"Select a Service Advisor" = "Select a Service Advisor";
-
-/* No comment provided by engineer. */
-"Select a Vehicle" = "Select a Vehicle";
-
-/* No comment provided by engineer. */
-"Select an Option" = "Select an Option";
-
-/* No comment provided by engineer. */
-"Select Service Advisor" = "Select Service Advisor";
-
-/* No comment provided by engineer. */
-"Send by Whatsapp" = "Send by Whatsapp";
-
-/* No comment provided by engineer. */
-"Send Video" = "Send Video";
-
-/* No comment provided by engineer. */
-"Send Video →" = "Send Video →";
-
-/* No comment provided by engineer. */
-"Sent to Social Media" = "Sent to Social Media";
-
-/* Alert button to open Settings */
-"Settings" = "Settings";
-
-/* No comment provided by engineer. */
-"Shared" = "Shared";
-
-/* Alert message when the user has denied access to the camera */
-"Snapcell doesn't have permission to use the camera and/or microphone. Please update your settings to record." = "Snapcell doesn't have permission to use the camera and/or microphone. Please update your settings to record.";
-
-/* No comment provided by engineer. */
-"Starting..." = "Starting...";
-
-/* No comment provided by engineer. */
-"Stats" = "Stats";
-
-/* No comment provided by engineer. */
-"Stock Number" = "Stock Number";
-
-/* No comment provided by engineer. */
-"Stopped" = "Stopped";
-
-/* No comment provided by engineer. */
-"There was an error completing your request. Please try again." = "There was an error completing your request. Please try again.";
-
-/* No comment provided by engineer. */
-"This Week" = "This Week";
-
-/* Alert message when something goes wrong during capture session configuration */
-"Unable to capture media" = "Unable to capture media";
-
-/* No comment provided by engineer. */
-"Unreachable" = "Unreachable";
-
-/* No comment provided by engineer. */
-"Unread Messages" = "Unread Messages";
-
-/* No comment provided by engineer. */
-"Upload Queue" = "Upload Queue";
-
-/* No comment provided by engineer. */
-"Uploading Video..." = "Uploading Video...";
-
-/* No comment provided by engineer. */
-"Uploading..." = "Uploading...";
-
-/* No comment provided by engineer. */
-"Uploads" = "Uploads";
-
-/* No comment provided by engineer. */
-"Video Details (Required)" = "Video Details (Required)";
-
-/* No comment provided by engineer. */
-"Video Settings" = "Video Settings";
-
-/* No comment provided by engineer. */
-"Video Title" = "Video Title";
-
-/* No comment provided by engineer. */
-"Videos" = "Videos";
-
-/* No comment provided by engineer. */
-"View Stats" = "View Stats";
-
-/* No comment provided by engineer. */
-"Watched" = "Watched";
-
-/* No comment provided by engineer. */
-"Web Dashboard" = "Web Dashboard";
-
-/* No comment provided by engineer. */
-"You have no customers yet. Record a video now to send to your customers." = "You have no customers yet. Record a video now to send to your customers.";
-
-/* No comment provided by engineer. */
-"You have no videos uploading. Record a video now to send to your customers." = "You have no videos uploading. Record a video now to send to your customers.";
-
-/* No comment provided by engineer. */
-"You have no videos. Record a video now to send to your customers." = "You have no videos. Record a video now to send to your customers.";
+/* General buttons */
+"ok_button" = "OK";
+"cancel_button" = "Cancel";
+"yes_button" = "Yes";
+"no_button" = "No";
+"save_button" = "Save";
+"edit_button" = "Edit";
+"delete_button" = "Delete";
+"retry_button" = "Retry";
+"next_button" = "Next";
+"back_button" = "Back";
+"done_button" = "Done";
+"close_button" = "Close";
+
+/* Tabs and navigation */
+"home_tab" = "Home";
+"recipes_tab" = "Recipes";
+"favorites_tab" = "Favorites";
+"shopping_list_tab" = "Shopping List";
+"settings_tab" = "Settings";
+
+/* Cooking-specific sections */
+"recipe_title" = "Recipes";
+"ingredients_section" = "Ingredients";
+"instructions_section" = "Instructions";
+"add_to_favorites" = "Add to Favorites";
+"remove_from_favorites" = "Remove from Favorites";
+"serving_size" = "Serving Size";
+"cook_time" = "Cook Time";
+"prep_time" = "Prep Time";
+"cuisine_type" = "Cuisine Type";
+"search_recipes_placeholder" = "Search for recipes";
+
+/* Notifications related to cooking */
+"new_recipe_notification" = "A new recipe has been added!";
+"shopping_list_reminder" = "Don't forget to check your shopping list.";
+"meal_ready_notification" = "Your meal is ready! Enjoy.";
+"timer_done_notification" = "Time’s up! Check your dish.";
+
+/* Error messages */
+"error_generic" = "Something went wrong. Please try again.";
+"error_no_recipes_found" = "No recipes found. Try a different search.";
+"error_empty_shopping_list" = "Your shopping list is empty.";
+"error_network" = "Unable to connect. Check your internet connection.";
+"error_required_field" = "This field is required.";
+
+/* Success messages */
+"success_recipe_saved" = "Recipe successfully saved to Favorites!";
+"success_item_deleted" = "Item removed from your shopping list.";
+"success_list_updated" = "Shopping list updated successfully.";
+"success_logged_in" = "Welcome back, chef!";
+
+/* Settings */
+"settings_title" = "Settings";
+"change_language" = "Change Language";
+"enable_notifications" = "Enable Notifications";
+"privacy_policy" = "Privacy Policy";
+"terms_of_service" = "Terms of Service";
+"logout_button" = "Log Out";
+
+/* Miscellaneous */
+"loading_message" = "Loading...";
+"pull_to_refresh" = "Pull to refresh";
+"empty_state_message" = "Nothing to see here.";
+"share_button" = "Share";
+"rate_us" = "Rate Us";
+"contact_support" = "Contact Support";
+
+/* Cooking-related actions */
+"start_cooking_button" = "Start Cooking";
+"add_to_shopping_list" = "Add to Shopping List";
+"remove_from_shopping_list" = "Remove from Shopping List";
+"view_full_recipe" = "View Full Recipe";
+"convert_units" = "Convert Units";
+
+/* Cooking tips and tricks */
+"tip_temperature_conversion" = "Tip: Convert temperatures between °F and °C.";
+"tip_measure_accurately" = "Tip: Use measuring cups for precise quantities.";
+"tip_sharp_knives" = "Tip: Keep your knives sharp for easier prep work.";
