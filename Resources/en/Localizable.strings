@@ -23,7 +23,7 @@
 "favorites_tab" = "Favorites";
 "shopping_list_tab" = "Shopping List";
 "settings_tab" = "Settings";
-"others" = "Settings";
+"others" = "Other settings";
 
 /* Cooking-specific sections */
 "recipe_title" = "Recipes";
