@@ -1,0 +1,120 @@
+
+"cook_time" = "fr - Cook Time";
+
+"favorites_tab" = "fr - Favorites";
+
+"done_button" = "fr - Done";
+
+"ok_button" = "fr - OK";
+
+"privacy_policy" = "fr - Privacy Policy";
+
+"view_full_recipe" = "fr - View Full Recipe";
+
+"contact_support" = "fr - Contact Support";
+
+"success_item_deleted" = "fr - Item removed from your shopping list.";
+
+"terms_of_service" = "fr - Terms of Service";
+
+"tip_measure_accurately" = "fr - Tip: Use measuring cups for precise quantities.";
+
+"serving_size" = "fr - Serving Size";
+
+"cancel_button" = "fr - Cancel";
+
+"new_recipe_notification" = "fr - A new recipe has been added!";
+
+"prep_time" = "fr - Prep Time";
+
+"loading_message" = "fr - Loading...";
+
+"error_network" = "fr - Unable to connect. Check your internet connection.";
+
+"remove_from_shopping_list" = "fr - Remove from Shopping List";
+
+"tip_temperature_conversion" = "fr - Tip: Convert temperatures between °F and °C.";
+
+"delete_button" = "fr - Delete";
+
+"shopping_list_tab" = "fr - Shopping List";
+
+"retry_button" = "fr - Retry";
+
+"empty_state_message" = "fr - Nothing to see here.";
+
+"next_button" = "fr - Next";
+
+"recipe_title" = "fr - Recipes";
+
+"error_no_recipes_found" = "fr - No recipes found. Try a different search.";
+
+"ingredients_section" = "fr - Ingredients";
+
+"enable_notifications" = "fr - Enable Notifications";
+
+"error_empty_shopping_list" = "fr - Your shopping list is empty.";
+
+"edit_button" = "fr - Edit";
+
+"home_tab" = "fr - Home";
+
+"add_to_shopping_list" = "fr - Add to Shopping List";
+
+"add_to_favorites" = "fr - Add to Favorites";
+
+"save_button" = "fr - Save";
+
+"back_button" = "fr - Back";
+
+"timer_done_notification" = "fr - Time’s up! Check your dish.";
+
+"recipes_tab" = "fr - Recipes";
+
+"cuisine_type" = "fr - Cuisine Type";
+
+"search_recipes_placeholder" = "fr - Search for recipes";
+
+"rate_us" = "fr - Rate Us";
+
+"settings_title" = "fr - Settings";
+
+"error_required_field" = "fr - This field is required.";
+
+"no_button" = "fr - No";
+
+"success_recipe_saved" = "fr - Recipe successfully saved to Favorites!";
+
+"instructions_section" = "fr - Instructions";
+
+"error_generic" = "fr - Something went wrong. Please try again.";
+
+"success_logged_in" = "fr - Welcome back, chef!";
+
+"settings_tab" = "fr - Settings";
+
+"share_button" = "fr - Share";
+
+"success_list_updated" = "fr - Shopping list updated successfully.";
+
+"close_button" = "fr - Close";
+
+"shopping_list_reminder" = "fr - Don't forget to check your shopping list.";
+
+"change_language" = "fr - Change Language";
+
+"tip_sharp_knives" = "fr - Tip: Keep your knives sharp for easier prep work.";
+
+"yes_button" = "fr - Yes";
+
+"start_cooking_button" = "fr - Start Cooking";
+
+"convert_units" = "fr - Convert Units";
+
+"remove_from_favorites" = "fr - Remove from Favorites";
+
+"meal_ready_notification" = "fr - Your meal is ready! Enjoy.";
+
+"logout_button" = "fr - Log Out";
+
+"pull_to_refresh" = "fr - Pull to refresh";
