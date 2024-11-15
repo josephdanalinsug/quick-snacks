@@ -21,6 +21,7 @@
 "favorites_tab" = "Favorites";
 "shopping_list_tab" = "Shopping List";
 "settings_tab" = "Settings";
+"others" = "Settings";
 
 /* Cooking-specific sections */
 "recipe_title" = "Recipes";
