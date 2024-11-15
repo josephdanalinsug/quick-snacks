@@ -1,5 +1,5 @@
 /* General buttons */
-"ok_button" = "OK";
+"ok_button" = "OK - This should update the keys";
 "cancel_button" = "Cancel";
 "yes_button" = "Yes";
 "no_button" = "No";
