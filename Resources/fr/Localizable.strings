@@ -37,6 +37,8 @@
 
 "delete_button" = "fr - Delete";
 
+"another" = "fr - another";
+
 "shopping_list_tab" = "fr - Shopping List";
 
 "retry_button" = "fr - Retry";
@@ -97,7 +99,7 @@
 
 "success_list_updated" = "fr - Shopping list updated successfully.";
 
-"close_button" = "fr - Close";
+"close_button" = "fr - Close for the demo";
 
 "shopping_list_reminder" = "fr - Don't forget to check your shopping list.";
 
@@ -118,3 +120,5 @@
 "logout_button" = "fr - Log Out";
 
 "pull_to_refresh" = "fr - Pull to refresh";
+
+"this_recipe" = "fr - This recipe requires love and care.";
