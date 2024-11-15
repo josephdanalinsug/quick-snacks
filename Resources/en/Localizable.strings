@@ -1,15 +1,3 @@
-﻿/* No comment provided by engineer. */
-"%@" = "%@";
-
-/* No comment provided by engineer. */
-"%d New" = "%d New";
-
-/* No comment provided by engineer. */
-"%d View(s)" = "%d View(s)";
-
-/* No comment provided by engineer. */
-"%i/%i Videos Sent" = "%1$i/%2$i Videos Sent";
-
 /* No comment provided by engineer. */
 "Add to Shared" = "Add to Shared";
 
@@ -284,9 +272,6 @@
 "Send Video →" = "Send Video →";
 
 /* No comment provided by engineer. */
-"Sent to %@" = "Sent to %@";
-
-/* No comment provided by engineer. */
 "Sent to Social Media" = "Sent to Social Media";
 
 /* Alert button to open Settings */
@@ -354,9 +339,6 @@
 
 /* No comment provided by engineer. */
 "Watched" = "Watched";
-
-/* No comment provided by engineer. */
-"We will post this video on your company's %@ page. Enter a message below to post with your video." = "We will post this video on your company's %@ page. Enter a message below to post with your video.";
 
 /* No comment provided by engineer. */
 "Web Dashboard" = "Web Dashboard";
