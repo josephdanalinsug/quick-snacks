@@ -11,6 +11,7 @@
 "back_button" = "Back";
 "done_button" = "Done";
 "close_button" = "Close for the demo";
+"this_recipe" = "This recipe requires love and care.";
 
 /* Tabs and navigation */
 "home_tab" = "Home";
