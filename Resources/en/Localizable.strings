@@ -10,7 +10,7 @@
 "next_button" = "Next";
 "back_button" = "Back";
 "done_button" = "Done";
-"close_button" = "Close";
+"close_button" = "Close for the demo";
 
 /* Tabs and navigation */
 "home_tab" = "Home";
