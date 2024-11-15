@@ -1,6 +1,6 @@
 /* General buttons */
 "ok_button" = "OK - This should update the keys";
-"cancel_button" = "Cancel";
+"cancel_button" = "Cancel This test should not work";
 "yes_button" = "Yes";
 "no_button" = "No";
 "save_button" = "Save";
