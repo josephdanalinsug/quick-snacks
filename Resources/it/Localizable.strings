@@ -5,7 +5,7 @@
 
 "done_button" = "it - Done";
 
-"ok_button" = "it - OK";
+"ok_button" = "it - OK - This should update the keys";
 
 "privacy_policy" = "it - Privacy Policy";
 
@@ -27,6 +27,8 @@
 
 "prep_time" = "it - Prep Time";
 
+"another2" = "it - another one bites the dust!";
+
 "loading_message" = "it - Loading...";
 
 "error_network" = "it - Unable to connect. Check your internet connection.";
@@ -37,7 +39,7 @@
 
 "delete_button" = "it - Delete";
 
-"another" = "it - another";
+"another" = "it - another one bites the dust!";
 
 "shopping_list_tab" = "it - Shopping List";
 
@@ -112,6 +114,8 @@
 "start_cooking_button" = "it - Start Cooking";
 
 "convert_units" = "it - Convert Units";
+
+"others" = "it - Settings";
 
 "remove_from_favorites" = "it - Remove from Favorites";
 
