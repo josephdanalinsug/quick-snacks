@@ -12,6 +12,7 @@
 "done_button" = "Done";
 "close_button" = "Close for the demo";
 "this_recipe" = "This recipe requires love and care.";
+"another" = "another";
 
 /* Tabs and navigation */
 "home_tab" = "Home";
