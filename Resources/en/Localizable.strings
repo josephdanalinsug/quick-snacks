@@ -15,6 +15,7 @@
 "another" = "another one bites the dust!";
 "another2" = "another one bites the dust!";
 "another3" = "another one bites the dust!";
+"another4" = "This should work";
 
 /* Tabs and navigation */
 "home_tab" = "Home";
