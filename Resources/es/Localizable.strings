@@ -21,7 +21,7 @@
 
 "serving_size" = "es - Serving Size";
 
-"cancel_button" = "es - Cancel";
+"cancel_button" = "es - Cancel This test should not work";
 
 "new_recipe_notification" = "es - A new recipe has been added!";
 
@@ -117,11 +117,13 @@
 
 "convert_units" = "es - Convert Units";
 
-"others" = "es - Settings";
+"others" = "es - Other settings";
 
 "remove_from_favorites" = "es - Remove from Favorites";
 
 "meal_ready_notification" = "es - Your meal is ready! Enjoy.";
+
+"another4" = "es - This should work";
 
 "logout_button" = "es - Log Out";
 
